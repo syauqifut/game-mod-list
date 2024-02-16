@@ -1,4 +1,4 @@
-Sure! Here is a list of my installed mods for Stardew Valley along with their download links:
+<h1 align="center" id="title">Stardew Valley</h1>
 
 # config
 - [ContentPatcher](https://www.nexusmods.com/stardewvalley/mods/1915) - Loads content packs that change the game's data, images, and maps without replacing XNB files.
