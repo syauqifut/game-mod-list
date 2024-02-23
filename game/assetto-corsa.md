@@ -30,10 +30,12 @@
 # arena
 - [La Canyon](https://www.racedepartment.com/downloads/la-canyons.15067/)
 - [Akiba](https://drive.google.com/file/d/1QglW-Rgi6y80_ZUOt7AjCsJ4Pcufmz-u/view)
+- [Akihabara](https://www.patreon.com/posts/akihabara-update-48838880)
 - [Akina Downhill](https://assettocorsa.club/mods/tracks/akina-downhill.html)
 - [Kanazawa - Free Roam](https://route8media.com/mod/kanazawa-free-roam/)
 - [Cikopo Paliman Tol](https://www.racedepartment.com/downloads/cikopo-palimanan-highway-west-java-indonesia-km-72-km-95.26572/)
 - [Arsouille - Free Land](https://assettocorsamods.io/tracks/map_team_arsouille_land_free/)
+- [Hope City - Free Roam](https://assettocorsamods.io/tracks/hope_city_freeroam/)
 
 # misc
 - [GT7 HUD](https://www.racedepartment.com/downloads/gt7-hud.56420/)
