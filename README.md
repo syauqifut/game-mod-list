@@ -1,10 +1,9 @@
-# Welcome to the Game Mod Repository
+<h1 align="center">Welcome to the Game Mod Repository</h1>
+<p align="center">This treasure chest holds the magic spells I've used to enchant my most-played virtual realms</p>
+<p align="center">☾⋆⁺₊🎮✩°｡</p>
+<br><br>
 
-This repository is a collection of mods for various games that I have played
-
-## List Game
-
-1. [Stardew Valley](./game/stardew-valley.md)
-2. [Assetto Corsa](./game/assetto-corsa.md)
-3. [Football Manager 2023](./game/football-manager-23.md)
-4. [Minecraft Java](./game/minecraft.md)
+* [Stardew Valley](./game/stardew-valley.md)
+* [Assetto Corsa](./game/assetto-corsa.md)
+* [Football Manager 2023](./game/football-manager-23.md)
+* [Minecraft Java Version](./game/minecraft.md)
