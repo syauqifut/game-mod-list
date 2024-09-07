@@ -1,6 +1,6 @@
 <h1 align="center" id="title">Stardew Valley</h1>
 
-# config
+### config
 - [ContentPatcher](https://www.nexusmods.com/stardewvalley/mods/1915) - Loads content packs that change the game's data, images, and maps without replacing XNB files.
 - [ContentPatcherAnimations](https://www.nexusmods.com/stardewvalley/mods/3853) - Animate textures in Content Patcher with its "EditImage" action.
 - [ExpandedPreconditionsUtility](https://www.nexusmods.com/stardewvalley/mods/6529) - A utility mod built on top of the game's preconditions system to offer a conditions system any mod can use
@@ -10,7 +10,7 @@
 - [MailFrameworkMod](https://www.nexusmods.com/stardewvalley/mods/1536) - Framework to use the in game mailbox. Console commands to adjust the mail. Code and Content Pack interfaces.
 - [StardewHack](https://www.nexusmods.com/stardewvalley/mods/3213) - Library mod used by my other mods. Doesn't do much on its own.
 
-# graphic
+### graphic
 - [BetterArtisanGoodIcons](https://www.nexusmods.com/stardewvalley/mods/2080) - This mod makes jelly, pickles, wine, juice, and honey icons be based on the fruit, vegetable, or flower used to make them. Easily tell at a glance what types of wine, jelly, etc you have in your inventory! (You can hide the little icons if you want too :))
 - [VisibleFish](https://www.nexusmods.com/stardewvalley/mods/8897) - This mod shows fish that are currently catchable in the water. Works with modded locations + fish!
 - [WindEffects](https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/post-80633) - Wind now blows through Stardew Valley. Watch your crops, grass, trees, and bushes sway in the breeze!
@@ -30,7 +30,7 @@
 - [(ContentPatcher) Starblue Valley](https://www.nexusmods.com/stardewvalley/mods/1869) - TL;DR: Literally everything is less yellow and has reduced saturation, grass and leaves are more blue. Except fall, fall is gold now. Includes interiors, craftables, flooring, furniture, a neutral interface, and more. Initial update for version 1.5 to deal with missing assets and mismatched textures
 - [(FashionSense) Shardust's Animated Hairstyles](https://www.nexusmods.com/stardewvalley/mods/10294) - Animated Hairstyles for Fashion Sense.
 
-# in-game tools
+### in-game tools
 - [Automate](https://www.nexusmods.com/stardewvalley/mods/1063) - Place a chest next to a machine (like a furnace or crystalarium), and the machine will automatically pull raw items from the chest and push processed items into it. Connect multiple machines with a chest to link them.
 - [BetterWorkbenches](https://www.nexusmods.com/stardewvalley/mods/4830) - Workbenches now access items from all connected chests - not just adjacent ones.
 - [ChestsAnywhere](https://www.nexusmods.com/stardewvalley/mods/518) - Access your chests, dressers, fridge, shipping bin, and Junimo huts from anywhere and organise them your way. Transfer items without having to run around, from the comfort of your bed to the deepest mine level. Includes optional balanced mode.
@@ -46,7 +46,7 @@
 - [SelfServe](https://www.nexusmods.com/stardewvalley/mods/11313) - Lets you access shops even when the shopkeeper is away. Works with ten shops in total. Each shop is toggleable.
 - [Skateboard](https://www.nexusmods.com/stardewvalley/mods/13096) - Lets you craft a skateboard that you can ride, enabling fluid, skateboard-like movement.
 
-# QOL / enhanchement
+### QOL / enhanchement
 - [AlwaysScrollMap](https://www.nexusmods.com/stardewvalley/mods/2733) - Makes the map scroll past the edge of the map. Useful when planting seeds while walking or doing out-of-bounds glitches.
 - [AnotherJumpMod](https://www.nexusmods.com/stardewvalley/mods/6546) - Lets you jump over things. Big things.
 - [AutomaticGates](https://www.nexusmods.com/stardewvalley/mods/3109) - Opens and closes gates automatically.
