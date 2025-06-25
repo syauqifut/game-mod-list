@@ -52,6 +52,7 @@
 - [Durability Tooltip](https://modrinth.com/mod/durability-tooltip)
 - [Pick Up Notifier](https://modrinth.com/mod/pick-up-notifier)
 - [Sound](https://modrinth.com/mod/sound) - Upgrade sound effect
+- [Inventory Sorting](https://modrinth.com/mod/inventory-sorting)
 
 ### Texture
 - [Continuity](https://modrinth.com/mod/continuity)
