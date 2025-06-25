@@ -1,7 +1,5 @@
 <h1 align="center" id="title">Minecraft</h1>
 
-## used version `1.21.1`
-
 ### Mod Loader
 - [Fabric](https://fabricmc.net/use/installer/) - Fabric version installer
 - [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api) - Mod loader
