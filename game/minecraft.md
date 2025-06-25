@@ -16,6 +16,7 @@
 - [M.R.U](https://modrinth.com/mod/mru)
 - [Puzzles Lib](https://modrinth.com/mod/puzzles-lib)
 - [Forge Config API Port](https://modrinth.com/mod/forge-config-api-port)
+- [BoxLib](https://modrinth.com/mod/boxlib)
 
 ### Performace
 - [Lithium](https://modrinth.com/mod/lithium) - game logic optimization
