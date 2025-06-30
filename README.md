@@ -7,3 +7,4 @@
 * [Assetto Corsa](./game/assetto-corsa.md)
 * [Football Manager 2023](./game/football-manager-23.md)
 * [Minecraft Java Version](./game/minecraft.md)
+* [Stremio](./game/stremio.md)
