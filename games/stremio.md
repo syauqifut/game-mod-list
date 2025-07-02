@@ -2,7 +2,10 @@
 
 ### core
 - [Torentio RD](https://stremio-addons.com/torrentio.html) - torrent stream
-- [Subsource](https://stremio-addons.com/subsource-subtitles.html) - subtitle
+- [Comet](https://comet.elfhosted.com/configure) - alternative torrent stream
+- [Subsource](https://subsource.strem.top/configure) - subtitle
+- [SubDl](https://subdl.strem.top/configure) - subtitle
+- [Addon Manager](https://addon-manager.dontwanttos.top/)
 - [] - auto translate
 
 ### catalog
