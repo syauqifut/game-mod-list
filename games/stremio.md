@@ -4,9 +4,8 @@
 - [Torentio RD](https://stremio-addons.com/torrentio.html) - torrent stream
 - [Comet](https://comet.elfhosted.com/configure) - alternative torrent stream
 - [Subsource](https://subsource.strem.top/configure) - subtitle
-- [SubDl](https://subdl.strem.top/configure) - subtitle
 - [Addon Manager](https://addon-manager.dontwanttos.top/)
-- [] - auto translate
+- [Subtito](https://subtito.com/) - AI auto translate substitle
 
 ### catalog
 - [Streaming Catalog](https://stremio-addons.com/streaming-catalogs.html) - Trending list on streaming service
